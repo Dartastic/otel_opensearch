@@ -2,7 +2,7 @@ name: otel_opensearch
 description: >-
   OpenTelemetry instrumentation for opensearch by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use opensearch.
-version: 0.1.0
+version: 0.1.1-wip
 repository: https://github.com/dartastic/otel_opensearch
 homepage: https://dartastic.io
 
